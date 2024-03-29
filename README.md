@@ -1,6 +1,6 @@
 <div>
     <div align="center">
-      <h1 align="center">Hi 👋, I'm BRENDA TIDJET</h1>
+      <h1 align="center">IT student looking for a work-study placement</h1>
     </div>
     <div align="right">
       <img src="https://github.com/Tidjet-16/Tidjet-16/blob/main/profil_gif.gif" align="right" height="" width="300" style="box-shadow: 0 0 5px red;" />
