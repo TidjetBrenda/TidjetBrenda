@@ -3,7 +3,7 @@
       <h1 align="center">IT student looking for a work-study placement</h1>
     </div>
     <div align="right">
-      <img src="https://github.com/Tidjet-16/Tidjet-16/blob/main/profil_gif.gif" align="right" height="" width="300" style="box-shadow: 0 0 5px red;" />
+      <img src="https://github.com/TidjetBrenda/TidjetBrenda/blob/main/profil_gif.gif" align="right" height="" width="300" style="box-shadow: 0 0 5px red;" />
     </div>  
     <div align="left">
      Passionate about computer science, I am currently a Master 1 student in Computer Science at the University of Le Havre Normandie. I already hold a Master's degree in Software Engineering from the University of Béjaïa and a Bachelor's degree in Computer Systems from the same university. My academic background has enabled me to acquire strong skills in software development, solving complex problems, and managing IT projects. My interest in exploring new technologies serves as inspiration for me. My goal is to contribute to the digital world by creating software and applications that meet the current needs and challenges of our society. Always open to new professional opportunities and teamwork, I am determined to achieve common goals.
@@ -12,7 +12,7 @@
 <br/>
 <br/>
 <div>
-    <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tidjet-16" alt="tidjet-16" /></a> </p> 
+    <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tidjet-16" alt="TidjetBrenda" /></a> </p> 
 </div>
 <br/>
 <div>
@@ -100,6 +100,6 @@
 </div>
 <br/>
 <div>
-    <p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tidjet-16&show_icons=true&locale=en&layout=compact" alt="tidjet-16" width="40%"/></p>
-    <p> <img align="right" src="https://github-readme-stats.vercel.app/api?username=tidjet-16&show_icons=true&locale=en" alt="tidjet-16" width="45%"/></p>
+    <p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TidjetBrenda&show_icons=true&locale=en&layout=compact" alt="tidjet-16" width="40%"/></p>
+    <p> <img align="right" src="https://github-readme-stats.vercel.app/api?username=TidjetBrenda&show_icons=true&locale=en" alt="tidjet-16" width="45%"/></p>
 </div>
