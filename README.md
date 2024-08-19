@@ -6,7 +6,7 @@
       <img src="https://github.com/TidjetBrenda/TidjetBrenda/blob/main/profil_gif.gif" align="right" height="" width="300" style="box-shadow: 0 0 5px red;" />
     </div>  
     <div align="left">
-     Passionate about computer science, I am currently a Master 1 student in Computer Science at the University of Le Havre Normandie. I already hold a Master's degree in Software Engineering from the University of Béjaïa and a Bachelor's degree in Computer Systems from the same university. My academic background has enabled me to acquire strong skills in software development, solving complex problems, and managing IT projects. My interest in exploring new technologies serves as inspiration for me. My goal is to contribute to the digital world by creating software and applications that meet the current needs and challenges of our society. Always open to new professional opportunities and teamwork, I am determined to achieve common goals.
+    Passionate about computer science, I am currently a Master’s student in Computer Science at the University of Le Havre Normandie. My academic background and professional internships have allowed me to acquire strong skills in software development, complex problem-solving, and IT project management. My interest in exploring new technologies serves as a true source of inspiration. My goal is to contribute to the digital world by creating software and applications that address the current needs and challenges of our society. Always open to new professional opportunities and teamwork, I am determined to achieve common goals.
     </div> 
 </div>
 <br/>
