@@ -6,7 +6,20 @@
       <img src="https://github.com/TidjetBrenda/TidjetBrenda/blob/main/profil_gif.gif" align="right" height="" width="300" style="box-shadow: 0 0 5px red;" />
     </div>  
     <div align="left">
-    Passionate about computer science, I am currently a Master’s student in Computer Science at the University of Le Havre Normandie. My academic background and professional internships have allowed me to acquire strong skills in software development, complex problem-solving, and IT project management. My interest in exploring new technologies serves as a true source of inspiration. My goal is to contribute to the digital world by creating software and applications that address the current needs and challenges of our society. Always open to new professional opportunities and teamwork, I am determined to achieve common goals.
+        # Welcome to my GitHub!
+
+        I am passionate about web development and design. I have strong knowledge of the following languages and technologies:
+        
+        - **HTML, CSS, JavaScript, TypeScript**: To create interactive and aesthetically pleasing web interfaces.
+        - **Front-end frameworks: React, React Native**: To build dynamic and responsive web and mobile applications.
+        - **CapacitorJS**: To create cross-platform mobile applications using web technologies.
+        - **Backend: Express**: To develop robust and high-performance web servers.
+        - **Python**: For various scripts, automations, and back-end development.
+        
+        In addition to my development skills, I am also interested in **DevOps** and continuous integration/continuous deployment (CI/CD).
+        
+        Feel free to explore my projects and contact me for any collaboration!
+
     </div> 
 </div>
 <br/>
