@@ -7,16 +7,15 @@
     </div>  
     <div align="left">
         I am passionate about web development and design. I have strong knowledge of the following languages and technologies:
-        - **HTML, CSS, JavaScript, TypeScript**: To create interactive and aesthetically pleasing web interfaces.
-        - **Front-end frameworks: React, React Native**: To build dynamic and responsive web and mobile applications.
-        - **CapacitorJS**: To create cross-platform mobile applications using web technologies.
-        - **Backend: Express**: To develop robust and high-performance web servers.
-        - **Python**: For various scripts, automations, and back-end development.
-        
+        <ul>
+            <li><b>HTML, CSS, JavaScript, TypeScript</b>: To create interactive and aesthetically pleasing web interfaces.</li>
+            <li><b>Front-end frameworks: React, React Native</b>: To build dynamic and responsive web and mobile applications.</li>
+            <li><b>CapacitorJS</b>: To create cross-platform mobile applications using web technologies.</li>
+            <li><b>Backend: Express</b>: To develop robust and high-performance web servers.</li>
+            <li><b>Python</b>: For various scripts, automations, and back-end development.</li>
+        </ul>
         In addition to my development skills, I am also interested in **DevOps** and continuous integration/continuous deployment (CI/CD).
-        
         Feel free to explore my projects and contact me for any collaboration!
-
     </div> 
 </div>
 <br/>
