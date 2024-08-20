@@ -6,10 +6,7 @@
       <img src="https://github.com/TidjetBrenda/TidjetBrenda/blob/main/profil_gif.gif" align="right" height="" width="300" style="box-shadow: 0 0 5px red;" />
     </div>  
     <div align="left">
-        # Welcome to my GitHub!
-
         I am passionate about web development and design. I have strong knowledge of the following languages and technologies:
-        
         - **HTML, CSS, JavaScript, TypeScript**: To create interactive and aesthetically pleasing web interfaces.
         - **Front-end frameworks: React, React Native**: To build dynamic and responsive web and mobile applications.
         - **CapacitorJS**: To create cross-platform mobile applications using web technologies.
